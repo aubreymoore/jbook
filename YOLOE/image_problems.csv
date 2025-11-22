@@ -1,0 +1,16 @@
+subset,filename,false_negatives,false_positives
+coconut_tree,1269436,0,0
+coconut_tree,1269637,0,0
+coconut_tree,1270736,0,0
+coconut_tree,1271795,0,0
+coconut_tree,1276183,1,0
+coconut,9255115,0,0
+coconut,1838130,0,0
+coconut,3860847,0,1
+coconut,14162815,0,0
+coconut,17833889,0,0
+j5,j5index0,0,0
+j5,j5index1,0,0
+j5,j5index2,0,0
+j5,j5index3,0,0
+j5,j5index4,0,0

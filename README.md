@@ -29,3 +29,10 @@ git remote add origin https://github.com/aubreymoore/jbook.git
 git branch -M main
 git push -u origin main
 ```
+
+## References
+
+- https://jupyter-book.github.io/workshop-template/
+
+- https://github.com/executablebooks/cookiecutter-jupyter-book 3 years ago
+

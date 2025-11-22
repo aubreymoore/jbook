@@ -11,3 +11,7 @@ wheels/
 
 # MyST build outputs
 _build
+
+# Files too large for GH
+YOLOE/mobileclip_blt.ts
+YOLOE/yoloe-11l-seg.pt
