@@ -4,6 +4,8 @@ GitHub repository: https://github.com/aubreymoore/jbook
 
 GitHub pages: https://aubreymoore.github.io/jbook
 
+[1269436](YOLOE/annotated_images/coconut_tree/1269436.jpg)
+
 ## Installation
 ```bash
 cd ~/Desktop
