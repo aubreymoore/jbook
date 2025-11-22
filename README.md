@@ -1,5 +1,9 @@
 # README.md
 
+GitHub repository: https://github.com/aubreymoore/jbook
+
+GitHub pages: https://aubreymoore.github.io/jbook
+
 ## Installation
 ```bash
 cd ~/Desktop
