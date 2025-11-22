@@ -18,6 +18,8 @@ To open the new book, open `https\\localhost:3000` in a web browser.
 ## Deployment
 I followed directions on https://jupyterbook.org/stable/get-started/publish/ to create a web site using GitHub Pages.
 
+Having problems.
+
 ```
 git remote add origin https://github.com/aubreymoore/jbook.git
 git branch -M main
